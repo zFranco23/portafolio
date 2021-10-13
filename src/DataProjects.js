@@ -1,5 +1,13 @@
 
 export const projects =[
+    { demo :"https://babystore-francoheflo-gmailcom.vercel.app/" ,name: "Baby Store e-commerce", preview:"https://i.ibb.co/hFND0Pt/image.png",
+      description:"Baby Store e-commerce, sitio , con funcionalidades de añadir al carrito de compras , seleccionar favoritos de manera persistente y checkout en ambiente de prueba.",
+      icons:[
+          "fab fa-react",
+          "fab fa-js-square",
+          "fab fa-css3-alt",
+      ]
+    },
     { demo :"https://zfranco23.github.io/countryquiz/" ,name: "Country Quiz", preview:"https://i.ibb.co/5YgF711/image-Country-Quiz.png",
       description:"Un juego de conocimiento acerca de paises , puedes escoger preguntas acerca de la capital o también puedes responder reconociendo las banderas.",
       icons:[
@@ -16,14 +24,14 @@ export const projects =[
         "fab fa-css3-alt",
     ]
     },
-    { demo :"https://zfranco23.github.io/windbnb/" ,name: "Wind bnb",preview:"https://i.ibb.co/tJCQ73T/image-Wind-Bnb.png",
-      description:"Un buscador de habitaciones de descanso en algunas ciudades de Perú. Se puede filtrar por localidad y por cantidad de personas a hospedarse.",
-      icons:[
-        "fab fa-react",
-        "fab fa-js-square",
-        "fab fa-css3-alt",
-     ]
-    },  
+    // { demo :"https://zfranco23.github.io/windbnb/" ,name: "Wind bnb",preview:"https://i.ibb.co/tJCQ73T/image-Wind-Bnb.png",
+    //   description:"Un buscador de habitaciones de descanso en algunas ciudades de Perú. Se puede filtrar por localidad y por cantidad de personas a hospedarse.",
+    //   icons:[
+    //     "fab fa-react",
+    //     "fab fa-js-square",
+    //     "fab fa-css3-alt",
+    //  ]
+    // },  
     { demo :"https://zfranco23.github.io/covidTracker/" ,name: "Covid Tracker",preview:"https://i.ibb.co/3TxDjGN/image-Covid-Tracker.png",
       description:"Un recopilador de la situación del covid a nivel mundial y a nivel nacional , se muestran infectados,recuperados y decesos.",
       icons:[
