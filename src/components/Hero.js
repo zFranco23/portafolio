@@ -66,10 +66,9 @@ function Hero({checked}) {
                             <Typed
                                 strings={[
                                 'Hola',
-                                'Soy Franco 👋',
-                                'Soy Desarrollador Web ... 🤓',
-                                'Soy Desarrollador Web en progreso 😷 ',
-                                '¡ Bienvenido! 😊']}
+                                'Soy Franco',
+                                'Soy Desarrollador Web',
+                                '¡ Bienvenido!']}
                                 typeSpeed={40}
                                 backSpeed={60}
                                 loop >
