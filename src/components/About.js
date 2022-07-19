@@ -46,7 +46,7 @@ function About() {
     return (
         <div className={classes.root} id="about">
             <Typography  className={classes.title}>
-                Sobre mi
+                About me
             </Typography>
             <Grid container className={classes.container}>
                     <Grid item xs={12} md={6}>
@@ -66,15 +66,15 @@ function About() {
                         <Fade right cascade>
                             <div className={classes.right}>
                                     <Typography className={classes.description} gutterBottom>
-                                        Egresado de <b>Ingeniería de Sistemas</b> de la <b>UNMSM</b>.
-                                        Tengo como objetivo especializarme en el Desarrollo Web , manteniendome actualizado en las
-                                        tendencias tecnológicas e ir creciendo profesionalmente a medida que gane experiencia.    
+                                        Systems Engineering graduated from <b>UNMSM</b>.
+                                        My objective is to specialize in Web Development, keeping myself updated in the
+                                        technological trends and grow professionally as I gain experience.    
                                     </Typography>
                                     <Typography className={classes.description} gutterBottom>
-                                        Aspiro a ser reconocido por el compromiso y cuidado en cada desarrollo en los que participe. Destacando, el detalle y la calidad de los productos entregados.
+                                        I aspire to be recognized for the commitment and care in each development in which I participate. Highlighting the detail and quality of the delivered products.
                                     </Typography>
                                     <Typography className={classes.description} gutterBottom>
-                                        Amante de los deportes , la pizza y la buena música . Escribo código para mejorar mis skills cada dia.
+                                        Sports, pizza and good music lover. I write code to improve my skills every day.
                                     </Typography>
                                 
                             </div>

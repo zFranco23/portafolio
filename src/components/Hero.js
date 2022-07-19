@@ -65,10 +65,10 @@ function Hero({checked}) {
                         <Typography className={classes.text}>
                             <Typed
                                 strings={[
-                                'Hola',
-                                'Soy Franco',
-                                'Soy Desarrollador Web',
-                                '¡ Bienvenido!']}
+                                'Hello',
+                                `I'm Franco`,
+                                `I'm a Web Developer`,
+                                '¡ Welcome !']}
                                 typeSpeed={40}
                                 backSpeed={60}
                                 loop >

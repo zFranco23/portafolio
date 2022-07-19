@@ -1,7 +1,7 @@
 
 export const projects =[
     { demo :"https://zfranco23.github.io/countryquiz/" ,name: "Country Quiz", preview:"https://i.ibb.co/5YgF711/image-Country-Quiz.png",
-      description:"Un juego de conocimiento acerca de paises , puedes escoger preguntas acerca de la capital o también puedes responder reconociendo las banderas.",
+      description:"A country knowledge game, you can select questions about a country flag or a capital, it is belong to you!",
       icons:[
           "fab fa-react",
           "fab fa-js-square",

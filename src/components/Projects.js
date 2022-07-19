@@ -30,7 +30,7 @@ function Projects() {
     return (
         <div className={classes.root} id="projects">
             <Typography  className={classes.title}>
-                Proyectos
+                Projects
             </Typography>
             <Container className={classes.container}>
                 <Grid container spacing={3}>

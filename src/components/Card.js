@@ -115,7 +115,7 @@ function CardProject({image,name,description,demo,icons}) {
                         ))}
                     </div>
                     <a href={demo} rel="noreferrer" target="_blank" className={classes.demo}>
-                        VER DEMO
+                        DEMO
                     </a>
                 </div>
             </CardContent>

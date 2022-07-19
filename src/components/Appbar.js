@@ -111,17 +111,17 @@ function Appbar({active,handleActive,handleVisible}) {
                 <div className={classes.btns}>
                     <Scroll to="home" smooth={true}>
                         <div className={`${classes.bar} ${active===0 && classes.active}`} onClick={()=>handleActive(0)}>
-                            Inicio
+                            Home
                         </div>
                     </Scroll>
                     <Scroll to="about" smooth={true}>
                         <div className={`${classes.bar} ${active===1 && classes.active}`} onClick={()=>handleActive(1)}>
-                            Sobre mi
+                            About me
                         </div>
                     </Scroll>
                     <Scroll to="projects" smooth={true}>
                         <div className={`${classes.bar} ${active===2 && classes.active}`} onClick={()=>handleActive(2)}>
-                            Proyectos
+                            Projects
                         </div>
                     </Scroll>
                 </div>

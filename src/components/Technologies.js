@@ -66,7 +66,7 @@ function Technologies() {
     return (
         <div className={classes.root}>
             <Typography  className={classes.title}>
-                Tecnologías
+                Technologies
             </Typography>
             <Parallax
                 bgImage={parallax}
