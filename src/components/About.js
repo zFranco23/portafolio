@@ -66,7 +66,7 @@ function About() {
                         <Fade right cascade>
                             <div className={classes.right}>
                                     <Typography className={classes.description} gutterBottom>
-                                        Estudiante universitario de <b>Ingeniería de Sistemas</b> de la <b>UNMSM</b>.
+                                        Egresado de <b>Ingeniería de Sistemas</b> de la <b>UNMSM</b>.
                                         Tengo como objetivo especializarme en el Desarrollo Web , manteniendome actualizado en las
                                         tendencias tecnológicas e ir creciendo profesionalmente a medida que gane experiencia.    
                                     </Typography>
