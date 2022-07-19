@@ -7,6 +7,7 @@ import {
     js,
     materialUi,
     react,
+    vue,
     bootstrap,
     express,
     node,
@@ -77,7 +78,7 @@ function Technologies() {
                         <Grid item xs={12} sm={4}>
                             <div className={classes.content}>
                                 <Typography className={classes.types}>
-                                    Elementales
+                                    Elementals
                                 </Typography>
                                 <div className={classes.containerTechnologies}>
                                     <img className={classes.img} src={html} alt="html"/>
@@ -94,6 +95,7 @@ function Technologies() {
                                 <div className={classes.containerTechnologies}>
                                     <img className={classes.img} src={materialUi} alt="material-ui"/>
                                     <img className={classes.img} src={react} alt="react"/>
+                                    <img className={classes.img} src={vue} alt="vue"/>   
                                     <img className={classes.img} src={bootstrap} alt="bootstrap"/>
                                 </div>
                             </div>
@@ -113,7 +115,7 @@ function Technologies() {
                         <Grid item xs={12} sm={4}>
                             <div className={classes.content}>
                                 <Typography className={classes.types}>
-                                    Bases de Datos
+                                    Databases
                                 </Typography>
                                 <div className={classes.containerTechnologies}>
                                 <img className={classes.img} src={mongodb} alt="mongodb"/>
@@ -125,7 +127,7 @@ function Technologies() {
                         <Grid item xs={12} sm={4}>
                             <div className={classes.content}>
                                 <Typography className={classes.types}>
-                                    Otros
+                                    Complements
                                 </Typography>
                                 <div className={classes.containerTechnologies}>
                                     <img className={classes.img} src={java} alt="java"/>

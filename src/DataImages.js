@@ -3,6 +3,7 @@ export const css=`${process.env.PUBLIC_URL}/assets/images/css.svg`;
 export const js=`${process.env.PUBLIC_URL}/assets/images/js.png`
 export const materialUi=`${process.env.PUBLIC_URL}/assets/images/material-ui.png`
 export const react=`${process.env.PUBLIC_URL}/assets/images/react.png`
+export const vue=`${process.env.PUBLIC_URL}/assets/images/vue.png`
 export const bootstrap=`${process.env.PUBLIC_URL}/assets/images/bootstrap.png`
 export const express=`${process.env.PUBLIC_URL}/assets/images/express.png`
 export const node=`${process.env.PUBLIC_URL}/assets/images/node.png`
